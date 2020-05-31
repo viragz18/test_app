@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * And much more to follow...
+
+* This is the exercise of the Ruby on rails developer course 
+
